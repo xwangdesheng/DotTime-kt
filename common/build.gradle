@@ -47,4 +47,10 @@ dependencies {
     api 'com.google.android.material:material:1.2.1'
     api 'androidx.constraintlayout:constraintlayout:2.0.4'
     api 'androidx.recyclerview:recyclerview:1.1.0'
+    api 'androidx.lifecycle:lifecycle-livedata-ktx:2.2.0'
+    api 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0'
+    api 'me.jessyan:autosize:1.2.1'
+    api "android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha04"
+    api "android.arch.navigation:navigation-ui-ktx:1.0.0-alpha04"
+
 }
